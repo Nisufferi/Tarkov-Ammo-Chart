@@ -1,0 +1,42 @@
+{
+  "9x39mm": [
+    {
+      "Caliber": "9x39",
+      "Name": "SP-5 GS",
+      "Damage": "71",
+      "PenValue": "28",
+      "Frag": "20",
+      "Recoil": "-5%",
+      "Speed": "290"
+    },
+    {
+      "Caliber": "9x39",
+      "Name": "SPP GS",
+      "Damage": "68",
+      "PenValue": "40",
+      "Frag": "20",
+      "Recoil": "10%",
+      "Speed": "310"
+    }
+  ],
+  "7.62x39": [
+    {
+      "Caliber": "7.62x39",
+      "Name": "HP",
+      "Damage": "87",
+      "PenValue": "15",
+      "Frag": "26",
+      "Recoil": "0%",
+      "Speed": "754"
+    },
+    {
+      "Caliber": "7.62x39",
+      "Name": "US GZH",
+      "Damage": "56",
+      "PenValue": "29",
+      "Frag": "8",
+      "Recoil": "-30%",
+      "Speed": "300"
+    }
+  ]
+}
